@@ -24,6 +24,8 @@ A template for using Poetry to manage Python projects.
     poetry config http-basic.daas aws $CODEARTIFACT_AUTH_TOKEN
     ```
 
+    Our username is `aws` and the password is our token.
+
 
 3. [Add dependencies](https://python-poetry.org/docs/basic-usage/#specifying-dependencies), either by:
 
